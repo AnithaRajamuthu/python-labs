@@ -1,2 +1,3 @@
 # python-labs
-Labs for CS41
+Labs for Python
+Instructor - Mayank Sachan
